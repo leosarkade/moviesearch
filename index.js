@@ -4,8 +4,7 @@ const pageTitle = document.getElementById("page-title")
 const myWatchlistBtn = document.getElementById('my-watchlist-btn')
 let currentPage = "search-page"
 
-localStorage.clear()
-console.log("local storage cleared")
+renderMyWatchlistPage()
 
 document.addEventListener("click", (e) =>{
     
