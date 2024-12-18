@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0lq1jsgrk",
+  "description": "https://scrimba.com/s0lq1jsgrk/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
